@@ -1,0 +1,21 @@
+.full-width{
+    width: 100%; 
+    padding: 0px;
+    margin: auto;
+    background-color: grey;
+}
+.one, .two{
+    display: inline-block;
+    width: 50%;
+    background-color: grey;
+    color: #FAFAFA;
+    height: 250px;
+    padding:15px 30px;
+    box-sizing: border-box;
+}
+.one h2{
+    margin-bottom: 15px;
+}
+.two h2{
+    margin-bottom: 15px;
+}
